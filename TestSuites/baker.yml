@@ -1,0 +1,8 @@
+name: suites
+vm:
+  ip: 192.168.33.50
+lang:
+  - nodejs9
+  - java8
+tools:
+  - maven
